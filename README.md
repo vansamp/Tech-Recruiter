@@ -1,5 +1,3 @@
-# Tech-Recruiter
-DESAFIO DIO RECRIANDO WIKIPEDIA
 <!DOCTYPE html>
 <html>
 <head>
